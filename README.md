@@ -3,14 +3,14 @@
 Welcome to my GitHub profile!
 
 ## 💻 Quick Info
-I use Arch btw. 🖥️  
+I use Arch btw.  
 This is a distribution that I truly enjoy using for its flexibility and customization options!
 
 ![My Screenshot](https://raw.githubusercontent.com/vilished/vilished/main/Screenshot_20240802_162051.png)
 
 ## 🌍 About Me
 - **Pronouns**: He/Him
-- **Joined**: 3 weeks ago
+- **Alias**: Vilished
 
 ## 🛠️ Technologies & Tools
 ![Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-blue)
