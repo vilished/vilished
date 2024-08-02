@@ -10,7 +10,7 @@ I use Arch btw.
 - **Joined**: 3 weeks ago
 
 ## 📫 How to Reach Me
-Feel free to reach out at **[vilished@proton.me](mailto:vilis@tuta.io)**.
+Feel free to reach out at **[vilis@tuta.io](mailto:vilis@tuta.io)**.
 
 ---
 
