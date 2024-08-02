@@ -12,10 +12,10 @@ I use Arch btw. 🖥️
 ## 🛠️ Technologies & Tools
 ![Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-blue)
 ![Python](https://img.shields.io/badge/Languages-Python-yellow)
-![C](https://img.shields.io/badge/Languages-C-green)
+![C#](https://img.shields.io/badge/Languages-C-green)
 
 ## 📫 How to Reach Me
-Feel free to reach out at **[vilished@proton.me](mailto:vilished@proton.me)**.
+Feel free to reach out at **[vilis@tuta.io](mailto:vilis@tuta.io)**.
 
 ---
 
