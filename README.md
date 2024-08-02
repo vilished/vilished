@@ -1,6 +1,6 @@
-# 👋 Hi there! I’m Vili (@vilished)
+# 👋 Sup, I’m Vili (@vilished)
 
-Welcome to my GitHub profile!
+Just a little README.md.
 
 ## 💻 Quick Info
 I use Arch btw.  
