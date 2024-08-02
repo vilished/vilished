@@ -37,4 +37,14 @@ I enjoy working with the following technologies and tools:
 
 - **Languages**: C, Python
 - **Tools**: Git, Docker, Visual Studio Code
-- **Platfo
+- **Platforms**: Linux
+
+## 📈 Contributions
+Here's a snapshot of my recent contributions:
+
+- 🌐 [Linux Kernel](https://github.com/torvalds/linux) (Forked)
+- 📂 [My GitHub Profile](https://github.com/vilished)
+
+---
+
+Thank you for visiting my profile! Feel free to explore my repositories and reach out if you want to collaborate.
