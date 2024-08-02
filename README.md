@@ -13,9 +13,9 @@ This is a distribution that I truly enjoy using for its flexibility and customiz
 - **Alias**: Vilished
 
 ## 🛠️ Technologies & Tools
-![Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-blue)
-![Python](https://img.shields.io/badge/Languages-Python-yellow)
-![C](https://img.shields.io/badge/Languages-C-green)
+![Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-blue&style=flat-square)
+![Python](https://img.shields.io/badge/Languages-Python-yellow&style=flat-square)
+![C+](https://img.shields.io/badge/Languages-C-green&style=flat-square)
 
 ## 📫 How to Reach Me
 Feel free to reach out at **[vilis@tuta.io](mailto:vilis@tuta.io)**.
