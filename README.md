@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 I use Arch btw. 🖥️  
 This is a distribution that I truly enjoy using for its flexibility and customization options!
 
-![My Screenshot]([https://raw.githubusercontent.com/vilished/vilished/main/Screenshot_20240802_135506.png](https://raw.githubusercontent.com/vilished/vilished/main/Screenshot_20240802_162051.png)
+![My Screenshot](https://raw.githubusercontent.com/vilished/vilished/main/Screenshot_20240802_135506.png)
 
 ## 🌍 About Me
 - **Pronouns**: He/Him
